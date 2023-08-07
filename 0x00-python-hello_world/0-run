@@ -1,0 +1,2 @@
+#!/bin/bash
+python_script_path="/usr/bin/python3/script.py"
